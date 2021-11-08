@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraft26&theme=dracula" alt="codecraft26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/amann_akku" target="blank"><img src="https://img.shields.io/twitter/follow/sanskar10100?logo=twitter&style=for-the-badge" alt="amann_akku" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amann_akku" target="blank"><img src="https://img.shields.io/twitter/follow/amann_akku?logo=twitter&style=for-the-badge" alt="amann_akku" /></a> </p>
 
 
 
@@ -31,8 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar10100&show_icons=true&theme=radical&locale=en&layout=compact" alt="codecraft26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraft26&show_icons=true&theme=radical&locale=en&layout=compact" alt="codecraft26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar10100&show_icons=true&theme=dark&locale=en" alt="sanskar10100" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark&locale=en" alt="sanskar10100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&" alt="codecraft26" /></p>
