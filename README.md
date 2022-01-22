@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Server-side programming & devops**
 
-
+-I’m currently working on [Inquire](https://github.com/Inquiresn/Inquire) ,[Gram-Swaraz](https://github.com/Gram-Swaraz) and [Businice](https://github.com/codecraft26/Businice)
 
 - 📫 Reach me at **gaman0221@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1zV-Q1RZzaLAABd3YmIv3UyiquKf1x2dm/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Gj292VGRisoS-YTM40jczzYxpGLCPdEM/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
