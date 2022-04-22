@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/amann_akku" target="blank"><img src="https://img.shields.io/twitter/follow/amann_akku?logo=twitter&style=for-the-badge" alt="amann_akku" /></a> </p>
 
-
-
 - 🌱 I’m currently learning **Server-side programming & devops**
 
 -  I’m currently working on [Inquire](https://github.com/Inquiresn/Inquire) [Gram-Swaraz](https://github.com/Gram-Swaraz) [Businice]   (https://github.com/codecraft26/Businice)
