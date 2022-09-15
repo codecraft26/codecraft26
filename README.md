@@ -6,10 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/codecraft26" target="blank"><img src="https://img.shields.io/twitter/follow/amann_akku?logo=twitter&style=for-the-badge" alt="amann_akku" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot  & devops**
+- 🌱 I’m currently learning **Jetpack compose  & devops **
 
--  I’m currently working on [Inquire](https://github.com/Inquiresn/Inquire) [Gram-Swaraz](https://github.com/Gram-Swaraz) [Businice]   (https://github.com/codecraft26/Businice)
-
+-  I’m currently working on backend developement(Node js and spring boot ).
 - 📫 Reach me at **gaman0221@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Gj292VGRisoS-YTM40jczzYxpGLCPdEM/view?usp=sharing)
