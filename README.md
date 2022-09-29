@@ -37,6 +37,5 @@ ___
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&" alt="codecraft26" /></p>
 
-<script src="https://gist.github.com/codecraft26/6fa4fb7525ec2df3f9cdc23106673b56.js"></script>
 
 
