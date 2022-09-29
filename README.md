@@ -30,6 +30,9 @@
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=aman2626)
 
+
+
+<a href="https://app.daily.dev/codecraft26"><img src="https://api.daily.dev/devcards/875d277cc1ab42e8aa84a171feec22a3.png?r=z2b" width="400" alt="Aman kumar gupta's Dev Card"/></a>
 ___
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraft26&show_icons=true&theme=radical&locale=en&layout=compact" alt="codecraft26" /></p>
 
