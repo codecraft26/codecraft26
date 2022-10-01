@@ -12,8 +12,7 @@
 - 📫 Reach me at **gaman0221@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Gj292VGRisoS-YTM40jczzYxpGLCPdEM/view?usp=sharing)
-
-
+-ocassionaly write Blog on [hashnode](https://hashnode.com/@codecraft26)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codecraft26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amann_akku" height="30" width="40" /></a>
