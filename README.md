@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Jetpack compose  & devops **
 
--  I’m currently working on backend developement(Node js and spring boot ).
+-  I’m currently working on backend developement(Node js and spring boot ) and Exploring Web3.
 - 📫 Reach me at **gaman0221@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1F-kI-9aP9qSmIT7jiMPxM9OHhJxt1wcz/view?usp=drivesdk)
