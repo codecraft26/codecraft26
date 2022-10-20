@@ -1,5 +1,6 @@
 
-<h1 align="center">Hello 👋, I'm Aman</h1>
+<h1 align="center">Hello 👋, I'm Aman</h1> 
+  
 <h3 align="center">A passionate  Android Native and Full stack  Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraft26&theme=dracula" alt="codecraft26" /></a></p>
@@ -20,7 +21,7 @@
 <a href="https://stackoverflow.com/users/11832402/aman-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6315197" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aman_2626" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aman_2626" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manngupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manngupta" height="30" width="40" /></a>
-
+Ama
 <a href="https://leetcode.com/aman2626/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amann_akku" height="30" width="40" /></a>
 </p>
 
