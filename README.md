@@ -36,7 +36,8 @@ Ama
 ___
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraft26&show_icons=true&theme=radical&locale=en&layout=compact" alt="codecraft26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark&locale=en" alt="sanskar10100" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark&locale=en" alt="codecraft26" /></p>
+<p> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&" alt="codecraft26" /></p>
 
