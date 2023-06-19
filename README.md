@@ -1,4 +1,4 @@
-(![GitHub Banner](https://github.com/codecraft26/codecraft26/assets/75511608/d36fe5a6-c776-42a3-a919-d21dd697fa0d)
+![GitHub Banner](https://github.com/codecraft26/codecraft26/assets/75511608/d36fe5a6-c776-42a3-a919-d21dd697fa0d)
 
 
 
