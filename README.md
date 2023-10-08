@@ -1,13 +1,13 @@
 ![GitHub Banner](https://github.com/codecraft26/codecraft26/assets/75511608/d36fe5a6-c776-42a3-a919-d21dd697fa0d)
 
-
+> An engineer's contribution should never be measured as "lines of code" or "commits per pay".
 
 
 <h1 align="center">Hello👋, I'm Aman 
 </h1> 
   <h1>
 <h3 align="center">A passionate  Full stack  Developer from India</h3>
-> An engineer's contribution should never be measured as "lines of code" or "commits per pay".
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraft26&theme=dracula" alt="codecraft26" /></a></p>
 
