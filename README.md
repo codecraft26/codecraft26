@@ -7,6 +7,7 @@
 </h1> 
   <h1>
 <h3 align="center">A passionate  Full stack  Developer from India</h3>
+> An engineer's contribution should never be measured as "lines of code" or "commits per pay".
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraft26&theme=dracula" alt="codecraft26" /></a></p>
 
@@ -43,7 +44,7 @@ ___
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark&locale=en" alt="codecraft26" /></p>
 <p> </p>
 
-> An engineer's contribution should never be measured as "lines of code" or "commits per pay".
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&" alt="codecraft26" /></p>
 
