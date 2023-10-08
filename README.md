@@ -43,6 +43,8 @@ ___
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark&locale=en" alt="codecraft26" /></p>
 <p> </p>
 
+> An engineer's contribution should never be measured as "lines of code" or "commits per pay".
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&" alt="codecraft26" /></p>
 
 
