@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/codecraft26" target="blank"><img src="https://img.shields.io/twitter/follow/amann_akku?logo=twitter&style=for-the-badge" alt="amann_akku" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack compose  & devops **
+- 🌱 I’m currently learning **Machine Learning  & devops **
 
 -  I’m currently working on backend developement(Node js and spring boot ) and Exploring Web3.
 - 📫 Reach me at **gaman0221@gmail.com**
