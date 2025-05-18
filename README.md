@@ -1,51 +1,101 @@
 ![GitHub Banner](https://github.com/codecraft26/codecraft26/assets/75511608/d36fe5a6-c776-42a3-a919-d21dd697fa0d)
 
-> An engineer's contribution should never be measured as "lines of code" or "commits per pay".
+> *"An engineer's contribution should never be measured by lines of code or commits per pay."*
 
+# Hello 👋, I'm Aman  
+### A passionate Full Stack Developer from India with 3+ years of professional experience
 
-<h1 align="center">Hello👋, I'm Aman 
-</h1> 
-  <h1>
-<h3 align="center">A passionate  Full stack  Developer from India</h3>
+---
 
+### About Me
+I am a driven full stack developer specializing in backend development with Node.js and Spring Boot, while also exploring the cutting edge of Web3 technologies. Currently diving deep into **Machine Learning** and **DevOps** to expand my tech horizons.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecraft26&theme=dracula" alt="codecraft26" /></a></p>
+I enjoy building scalable, maintainable software solutions and contributing to open source and developer communities through blogging and sharing knowledge.
 
-<p align="left"> <a href="https://twitter.com/codecraft26" target="blank"><img src="https://img.shields.io/twitter/follow/amann_akku?logo=twitter&style=for-the-badge" alt="amann_akku" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Machine Learning  & devops **
+### 🌱 What I'm learning & working on:
+- **Currently mastering:** Machine Learning & DevOps
+- **Main stack:** Backend (Node.js, Spring Boot), Frontend (React, Next.js)
+- **Exploring:** Web3 and blockchain development
 
--  I’m currently working on backend developement(Node js and spring boot ) and Exploring Web3.
-- 📫 Reach me at **gaman0221@gmail.com**
+---
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1F-kI-9aP9qSmIT7jiMPxM9OHhJxt1wcz/view?usp=drivesdk)
-- ocassionaly write Blog on [hashnode](https://hashnode.com/@codecraft26)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codecraft26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amann_akku" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/codecraft26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amangupta2626" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11832402/aman-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6315197" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aman_2626" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aman_2626" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manngupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manngupta" height="30" width="40" /></a>
-Ama
-<a href="https://www.leetcode.com/codecraft26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amann_akku" height="30" width="40" /></a>
+### 📫 How to reach me:
+- Email: [gaman0221@gmail.com](mailto:gaman0221@gmail.com)
+- Resume: [View here](https://drive.google.com/file/d/1F-kI-9aP9qSmIT7jiMPxM9OHhJxt1wcz/view?usp=drivesdk)
+- Blog: [hashnode.com/@codecraft26](https://hashnode.com/@codecraft26)
+
+---
+
+### Connect with me
+
+[![Twitter](https://img.shields.io/twitter/follow/amann_akku?logo=twitter&style=for-the-badge)](https://twitter.com/codecraft26)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/codecraft26)  
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/11832402/aman-gupta)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-orange?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/aman_2626)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-green?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/manngupta)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&style=for-the-badge)](https://leetcode.com/codecraft26/)
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:-</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=codecaft26)
+### 📈 GitHub Stats
 
-<a href="https://app.daily.dev/codecraft26"><img src="https://api.daily.dev/devcards/875d277cc1ab42e8aa84a171feec22a3.png?r=z2b" width="400" alt="Aman kumar gupta's Dev Card"/></a>
-___
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraft26&show_icons=true&theme=radical&locale=en&layout=compact" alt="codecraft26" /></p>
+<p align="left">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraft26&show_icons=true&theme=radical&layout=compact" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark&locale=en" alt="codecraft26" /></p>
-<p> </p>
+<p align="left">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark" />
+</p>
+
+<p align="left">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26" />
+</p>
+
+---
+
+### 💡 Highlights & Achievements
+
+- Built scalable microservices using Spring Boot and Node.js, deployed on AWS ECS and EC2.
+- Developed automated CI/CD pipelines with GitHub Actions, reducing release time by 50%.
+- Created custom video transcoding workflows using AWS Lambda and ECS.
+- Delivered production-ready APIs with Kafka and RabbitMQ for asynchronous messaging.
+- Led the adoption of third-party admin apps saving months of development effort.
+- Contributor and active blogger sharing knowledge on backend, DevOps, and Web3.
+
+---
+
+### 📚 Learning Path
+
+- Advanced Machine Learning algorithms & model deployment
+- Cloud-native architecture and container orchestration with Kubernetes
+- Blockchain & decentralized applications development
+
+---
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&" alt="codecraft26" /></p>
+Thanks for stopping by! Feel free to connect and collaborate. 🚀
 
+---
 
-
+*Last updated: May 2025*
