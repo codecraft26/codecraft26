@@ -27,6 +27,21 @@ I enjoy building scalable, maintainable software solutions and contributing to o
 - Blog: [hashnode.com/@codecraft26](https://hashnode.com/@codecraft26)
 
 ---
+### 📊 GitHub logs:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### Connect with me
 
@@ -57,19 +72,11 @@ I enjoy building scalable, maintainable software solutions and contributing to o
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="left">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecraft26&show_icons=true&theme=radical&layout=compact" />
-</p>
-
-<p align="left">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codecraft26&show_icons=true&theme=dark" />
-</p>
-
-<p align="left">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraft26" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codecraft26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codecraft26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codecraft26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
