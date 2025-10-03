@@ -1,0 +1,213 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \scshape Aman Gupta} \\ \vspace{1pt}
+    Gurugram, Haryana \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ +91-8707711852 ~ 
+    \href{mailto:gaman0221@gmail.com}{\raisebox{-0.2\height}\faEnvelope\ gaman0221@gmail.com} ~ 
+    \href{https://linkedin.com/in/codecraft26}{\raisebox{-0.2\height}\faLinkedin\ codecraft26} ~
+    \href{https://github.com/codecraft26}{\raisebox{-0.2\height}\faGithub\ codecraft26}
+    \vspace{-8pt}
+\end{center}
+
+\section{Summary}
+\small{Full Stack Developer with 3+ years of experience building scalable, secure applications using JavaScript, TypeScript, Java, and Python. Skilled in microservices, AWS (ECS Fargate, EC2, Lambda), and fault-tolerant cloud architectures. Experienced in implementing RAG pipelines, integrating LLMs, and developing AI-driven solutions to enhance automation and product intelligence. Proficient in payment integrations (Razorpay, PayPal, Stripe) and high-performance caching with Redis.}
+
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Infinite Computer Solutions India Ltd}{June 2022 -- Present}
+      {Full Stack Developer}{Gurugram, India}
+      \resumeItemListStart
+        \resumeItem{Architected and deployed healthcare applications processing 837, 835, 276, and 277 EDI files for claims and eligibility verification, handling 10,000+ daily transactions.}
+        \resumeItem{Developed responsive UIs with Next.js, React.js, TypeScript, and scalable backend microservices using Java (Spring Boot), Node.js (Express.js, NestJS), and Python (FastAPI, Django).}
+        \resumeItem{Deployed production-grade applications leveraging MySQL, PostgreSQL, MongoDB, Kafka, RabbitMQ, Redis, and AWS (Fargate, EC2, S3, Lambda, SES) with high availability and fault tolerance.}
+        \resumeItem{Built solutions including a video transcoder, automated invoice generation system (Puppeteer), and a Redis-based queue system for auto-enrollment.}
+        \resumeItem{Integrated payment gateways including Razorpay, PayPal, and Stripe for seamless transaction processing and subscription management.}
+        \resumeItem{Led infrastructure optimization, achieving 3x AWS cost reduction through rightsizing, auto-scaling, and efficient service architecture.}
+        \resumeItem{Established CI/CD pipelines with GitHub Actions, reducing deployment time by 60\% and improving release reliability.}
+        \resumeItem{Implemented message-driven architectures using Kafka and RabbitMQ for asynchronous processing, improving system throughput and resilience.}
+        \resumeItem{Designed and implemented RAG pipelines with ETL workflows to process unstructured documents and healthcare EDI files (837, 835) into a Vector DB, enabling semantic search and integration with LLM-powered insights.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Onelab Ventures}{Aug 2021 -- Feb 2022}
+      {Full Stack Developer Intern}{Pune, India}
+      \resumeItemListStart
+        \resumeItem{Contributed to a recruitment platform by developing and documenting end-to-end features across frontend and backend.}
+        \resumeItem{Maintained the Kanban project board to streamline sprint planning and task tracking.}
+        \resumeItem{Designed and implemented efficient RESTful APIs to support new product features.}
+        \resumeItem{Tech Stack: React.js, Node.js, Docker, AWS}
+      \resumeItemListEnd
+      
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Frontend}{: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Redux, Zustand} \\
+     \textbf{Backend}{: Node.js, Express.js, NestJS, Django, Spring Boot, FastAPI, Kafka, RabbitMQ, Firebase} \\
+     \textbf{Databases}{: MySQL, PostgreSQL, MongoDB, MongoDB Atlas Vector Search, Redis, Vector Databases (Weaviate, Pinecone)} \\
+     \textbf{Cloud \& DevOps}{: AWS (ECS, Fargate, EC2, S3, Lambda, SES), GCP, DigitalOcean, Docker, Kubernetes, Git, GitHub, Linux, Shell} \\
+     \textbf{AI/ML}{: LangChain, OpenAI API, RAG Architecture, Vector Embeddings, Prompt Engineering, LLM Integration} \\
+     \textbf{Payment Integration}{: Razorpay, PayPal, Stripe} \\
+    }}
+ \end{itemize}
+ \vspace{-16pt}
+
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+    
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/codecraft26/DocSense-RAG}{DocSense-RAG}} $|$ \emph{FastAPI, Python, LangChain, Weaviate, OpenAI, Docker}}{}
+          \resumeItemListStart
+            \resumeItem{Built an intelligent document processing system using RAG (Retrieval-Augmented Generation) architecture to enable semantic search and question-answering over large document collections.}
+            \resumeItem{Implemented ETL pipelines to extract, chunk, and embed documents into a vector database (Weaviate) for efficient similarity search.}
+            \resumeItem{Integrated OpenAI's LLM for generating contextual answers based on retrieved document chunks, improving information retrieval accuracy by 40\%.}
+            \resumeItem{Designed FastAPI backend with async processing and Docker containerization for scalable deployment.}
+          \resumeItemListEnd
+          \vspace{-13pt}
+          
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/codecraft26/smarter.codes}{Smarter Code -- Semantic Search Engine}} $|$ \emph{FastAPI, Next.js, Python, Weaviate, Docker, Socket.IO}}{}
+          \resumeItemListStart
+            \resumeItem{Built a full-stack semantic search engine to semantically search HTML content with real-time scraping capabilities.}
+            \resumeItem{Integrated chunking and embedding of web pages with optional Weaviate support via Docker for vector storage.}
+            \resumeItem{Developed FastAPI backend with in-memory or external vector store integration and Next.js frontend with Tailwind CSS.}
+          \resumeItemListEnd
+          \vspace{-13pt}
+          
+      \resumeProjectHeading
+          {\textbf{Bann Dhann} $|$ \emph{Next.js 15, React 19, TypeScript, Redux Toolkit, PWA, NextAuth.js}}{}
+          \resumeItemListStart
+            \resumeItem{Built a modern Progressive Web App (PWA) for team activities including quizzes, treasure hunts, polls, and photo sharing.}
+            \resumeItem{Implemented push notifications, real-time updates, NextAuth.js authentication, and custom service worker for advanced PWA functionality.}
+          \resumeItemListEnd
+          \vspace{-13pt}
+          
+      \resumeProjectHeading
+          {\textbf{Inquire (Android \& Web)} $|$ \emph{React Native, Node.js, MongoDB, Firebase, Redux}}{}
+          \resumeItemListStart
+            \resumeItem{Social platform for developers to share and discover code snippets for specific functions, handling 10k+ concurrent users.}
+            \resumeItem{Tech stack distributed over 8+ technologies for scalability and real-time collaboration.}
+          \resumeItemListEnd
+          \vspace{-13pt}
+          
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/codecraft26/sketch-book}{SketchBook}} $|$ \emph{Next.js, Node.js, Socket.IO, Canvas API}}{}
+          \resumeItemListStart
+            \resumeItem{Online SketchPad web application enabling real-time collaboration on digital artwork.}
+            \resumeItem{Implemented real-time drawing with Socket.IO and versatile drawing tools using Canvas API.}
+          \resumeItemListEnd
+          \vspace{-13pt}
+          
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/codecraft26/video-chat-webrtc}{Video-Chat-App}} $|$ \emph{WebRTC, React.js, Node.js, Socket.IO}}{}
+          \resumeItemListStart
+            \resumeItem{Developed a real-time video chatting application using WebRTC with seamless peer-to-peer video streaming.}
+            \resumeItem{Utilized React Player for rendering video streams and Socket.IO for signaling between users.}
+          \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+\vspace{-15pt}
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Babu Banarasi Das Engineering College, Lucknow}{July 2018 -- June 2022}
+      {Bachelor of Technology in Computer Science and Engineering}{GPA: 8.4/10}
+      \resumeItemListStart
+        \resumeItem{Tech Lead of e-Pingala Software Development Center}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\end{document}
