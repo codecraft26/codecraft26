@@ -1,0 +1,192 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \scshape Aman Gupta} \\ \vspace{1pt}
+    Gurugram, Haryana \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ +91-8707711852 ~ 
+    \href{mailto:gaman0221@gmail.com}{\raisebox{-0.2\height}\faEnvelope\ gaman0221@gmail.com} ~ 
+    \href{https://linkedin.com/in/codecraft26}{\raisebox{-0.2\height}\faLinkedin\ codecraft26} ~
+    \href{https://github.com/codecraft26}{\raisebox{-0.2\height}\faGithub\ codecraft26}
+    \vspace{-8pt}
+\end{center}
+
+\section{Summary}
+\small{Full Stack Engineer with 3+ years building scalable, secure fintech and healthcare applications. Expert in Node.js, TypeScript, Next.js, AWS, Python, LangChain, and generative AI. Proficient in RAG pipelines, vector databases, microservices, and PCI-compliant architectures.}
+
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Skyclad Ventures}{Dec 2025 -- Present}
+      {Full Stack Engineer}{Remote}
+      \resumeItemListStart
+        \resumeItem{Engineered an automated transaction reconciliation platform and chargeback management workflows to streamline payment operations and dispute resolution, handling high-volume transaction processing.}
+        \resumeItem{Built a configurable payment portal engine enabling merchant-level branding, fee configuration, and dynamic payment flow customization for diverse business requirements.}
+        \resumeItem{Developed a PCI-compliant payment gateway for Card and Net Banking transactions using Node.js, TypeScript, and AWS SQS, ensuring secure and scalable payment processing.}
+        \resumeItem{Designed and implemented a resilient webhook delivery engine with HMAC-SHA256 request signing and 7-attempt exponential backoff retries for dependable merchant notifications.}
+        \resumeItem{Integrated LangChain with Python FastAPI backend to build intelligent document processing and semantic search capabilities for merchant transaction data analysis and compliance reporting.}
+        \resumeItem{Implemented RAG (Retrieval-Augmented Generation) pipelines leveraging OpenAI APIs and vector embeddings (Weaviate, Pinecone) to enhance merchant support with intelligent Q\&A systems and transaction insights.}
+        \resumeItem{Developed generative AI-powered features using LangChain and LLMs for automated payment reconciliation suggestions, anomaly detection, and intelligent transaction categorization.}
+        \resumeItem{Built vector database integrations (Weaviate, Pinecone) for semantic search over merchant payment histories, enabling similarity-based fraud detection and advanced transaction analytics.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Infinite Computer Solutions India Ltd}{June 2022 -- Nov 2025}
+      {Full Stack Developer}{Gurugram, India}
+      \resumeItemListStart
+        \resumeItem{Architected healthcare EDI processing applications (837, 835, 276, 277) handling 10,000+ daily transactions with Next.js, Spring Boot, and Node.js microservices.}
+        \resumeItem{Deployed production applications on AWS (ECS Fargate, EC2, Lambda, S3) with MySQL, PostgreSQL, MongoDB, Kafka, RabbitMQ, and Redis for high availability and fault tolerance.}
+        \resumeItem{Integrated Razorpay, PayPal, and Stripe payment gateways; built video transcoder and automated invoice generation system (Puppeteer) with Redis-based job queues.}
+        \resumeItem{Led infrastructure optimization achieving 3x AWS cost reduction; established CI/CD pipelines with GitHub Actions reducing deployment time by 60\%.}
+        \resumeItem{Designed RAG pipelines with vector embeddings for semantic search over healthcare documents; implemented async processing with Kafka and RabbitMQ.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Onelab Ventures}{Aug 2021 -- Feb 2022}
+      {Full Stack Developer Intern}{Pune, India}
+      \resumeItemListStart
+        \resumeItem{Contributed to a recruitment platform by developing and documenting end-to-end features across frontend and backend}
+        \resumeItem{Maintained the Kanban project board to streamline sprint planning and task tracking.}
+        \resumeItem{Designed and implemented efficient RESTful APIs to support new product features.}
+        \resumeItem{Tech Stack: React.js, Node.js, Docker, AWS}
+      \resumeItemListEnd
+      
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Frontend}{: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Redux, Zustand} \\
+     \textbf{Backend}{: Node.js, Express.js, NestJS, Python, Django, FastAPI, Spring Boot, Kafka, RabbitMQ, Firebase} \\
+     \textbf{Databases}{: MySQL, PostgreSQL, MongoDB, MongoDB Atlas Vector Search, Redis, Vector Databases (Weaviate, Pinecone)} \\
+     \textbf{Cloud \& DevOps}{: AWS (ECS, Fargate, EC2, S3, Lambda, SES), GCP, DigitalOcean, Docker, Kubernetes, Git, GitHub, Linux, Shell} \\
+     \textbf{AI/ML \& GenAI}{: LangChain, Python, OpenAI API, RAG Architecture, Vector Embeddings, Prompt Engineering, LLM Integration, Generative AI, Semantic Search} \\
+    }}
+ \end{itemize}
+ \vspace{-16pt}
+
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+    
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/codecraft26/DocSense-RAG}{DocSense-RAG}} $|$ \emph{FastAPI, LangChain, Weaviate, OpenAI}}{}
+          \resumeItemListStart
+            \resumeItem{RAG-based document processing system with semantic search using LangChain and vector embeddings (Weaviate). Improved retrieval accuracy by 40\% with OpenAI LLM integration.}
+          \resumeItemListEnd
+          \vspace{-10pt}
+          
+      \resumeProjectHeading
+          {\textbf{\href{https://github.com/codecraft26/smarter.codes}{Smarter Code}} $|$ \emph{FastAPI, Next.js, Weaviate, Socket.IO}}{}
+          \resumeItemListStart
+            \resumeItem{Full-stack semantic search engine for web content with real-time scraping, chunking, and embedding pipeline. FastAPI backend with Next.js frontend.}
+          \resumeItemListEnd
+          \vspace{-10pt}
+          
+      \resumeProjectHeading
+          {\textbf{Bann Dhann} $|$ \emph{Next.js 15, React 19, TypeScript, PWA, NextAuth.js}}{}
+          \resumeItemListStart
+            \resumeItem{Progressive Web App for team activities with push notifications, real-time updates, authentication, and offline-first capabilities.}
+          \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+\vspace{-15pt}
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Babu Banarasi Das Engineering College, Lucknow}{July 2018 -- June 2022}
+      {Bachelor of Technology in Computer Science and Engineering}{GPA: 8.4/10}
+      \resumeItemListStart
+        \resumeItem{Tech Lead of e-Pingala Software Development Center}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\end{document}
